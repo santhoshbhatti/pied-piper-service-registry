@@ -1,0 +1,1 @@
+This is the service registry and service lookup applications where all pied-piper microservices register and make themselves available to be looked up by other services in pied-piper microservice suites
